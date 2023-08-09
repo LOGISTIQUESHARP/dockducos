@@ -226,11 +226,11 @@ body
 .container .btn:nth-child(12)::before,
 .container .btn:nth-child(12)::after
 {
-    background: rgb(223, 0, 167);
-    box-shadow: 0 0 5px rgb(223, 0, 167),
-    0 0 15px rgb(223, 0, 167),
-    0 0 30px rgb(223, 0, 167),
-    0 0 60px rgb(223, 0, 167);
+    background: rgb(186,85,211);
+    box-shadow: 0 0 5px rgb(186,85,211),
+    0 0 15px rgb(186,85,211),
+    0 0 30px rgb(186,85,211),
+    0 0 60px rgb(186,85,211);
 }
 .container .btn:nth-child(13)::before,
 .container .btn:nth-child(13)::after
